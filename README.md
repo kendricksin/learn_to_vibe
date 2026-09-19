@@ -1,4 +1,4 @@
-# AI Coding Workflow (Qwen)
+# AI Coding Workflow 
 *A beginner-friendly guide, with minimal setup to start coding with AI assistance*
 
 > **What is "vibe coding"?**  
